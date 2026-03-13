@@ -15,7 +15,7 @@ git clone https://github.com/dev-grodrigues-notas-atletas
 ```bash
 cd notas-atletas
 ```
-- 3- Abra o arquivo notas-atletas.js
+- 3- Abra o arquivo 
 ```bash
 node notas-atletas.js
 ```
