@@ -2,6 +2,7 @@
 <p align="center" >
 Aplicação que recebe o nome e notas de um atleta, calcula a média e exibe o resultado ao usuário
 </p>
+
 ---
 
 ## 🚀 Tecnologias utilizadas
