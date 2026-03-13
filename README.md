@@ -12,11 +12,7 @@ Aplicação que recebe o nome e notas de um atleta, calcula a média e exibe o r
 ```bash
 git clone https://github.com/dev-grodrigues-notas-atletas
 ```
-- 2- Entre na pasta
-```bash
-cd notas-atletas
-```
-- 3- Abra o arquivo 
+- 2- Abra o arquivo 
 ```bash
 node notas-atletas.js
 ```
