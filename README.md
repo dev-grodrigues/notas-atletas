@@ -6,7 +6,7 @@ Aplicação que recebe o nome e notas de um atleta, calcula a média e exibe o r
 ---
 
 ## 🚀 Tecnologias utilizadas
-* Node.js
+* JavaScript
 ## ▶️ Como executar 
 - 1- Clone o repositorio
 ```bash
@@ -21,5 +21,4 @@ notas-atletas/
 ├─ notas-atletas.js
 ├─ README.md
 ## 👨‍💻 **Autor: Gabriel Rodrigues**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
